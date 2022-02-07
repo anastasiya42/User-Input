@@ -1,0 +1,40 @@
+.left img {
+    float: left;
+    width: 28%;
+}
+
+.right img {
+    float: right;
+    width: 18%;
+    margin-top: 21%;
+    padding-right: 3%;
+}
+
+header {
+    margin-bottom: 4%;
+    color: cornsilk;
+    background-color: black;
+    padding-bottom: 1%;
+    
+}
+
+
+h3 {
+    padding-top: 10%;
+    padding-left: 15%;
+    font-size: 6em;
+}
+
+main {
+    background-color: cornsilk;
+    padding: 10%;
+    font-size: 3em;
+    
+}
+
+main img {
+    align-content: center;
+    width: 100%;
+    margin-top: 10%;
+    
+}
